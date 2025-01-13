@@ -1,7 +1,7 @@
 import os
 
 # Direktori tempat file berada
-directory = r"C:\Users\Keano\Downloads\bunga-papan"  # Pastikan path sesuai dengan lokasi folder
+directory = r"add\to\your\path"  # Pastikan path sesuai dengan lokasi folder
 
 # Loop melalui semua file di direktori
 for filename in os.listdir(directory):
